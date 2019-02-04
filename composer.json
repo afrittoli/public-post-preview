@@ -1,0 +1,22 @@
+{
+  "name": "afrittoli/public-post-preview",
+  "description": "WordPress plugin to highlight source code",
+  "type": "wordpress-plugin",
+  "license": "Public domain",
+  "authors": [
+    {
+      "name": "Dominik Schilling"
+    },
+    {
+      "name": "Matt Martz"
+    },
+    {
+      "name": "Jonathan Dingman"
+    }
+  ],
+  "source": {
+    "url": "https://github.com/afrittoli/public-post-review.git",
+    "type": "git",
+    "reference": "master"
+  }
+}
